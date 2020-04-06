@@ -3,6 +3,6 @@
              x:Class="BeautifulPanel.App"
              >
     <Application.Resources>
-        
+
     </Application.Resources>
 </Application>
