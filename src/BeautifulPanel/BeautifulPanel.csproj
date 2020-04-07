@@ -77,7 +77,9 @@
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Egg.cs" />
     <Compile Include="Flake.cs" />
+    <Compile Include="Utils.cs" />
     <Compile Include="MainPage.xaml.cs">
       <DependentUpon>MainPage.xaml</DependentUpon>
     </Compile>
@@ -85,6 +87,7 @@
     <Compile Include="Screen.xaml.cs">
       <DependentUpon>Screen.xaml</DependentUpon>
     </Compile>
+    <Compile Include="ShapeBase.cs" />
   </ItemGroup>
   <ItemGroup>
     <ApplicationDefinition Include="App.xaml">
